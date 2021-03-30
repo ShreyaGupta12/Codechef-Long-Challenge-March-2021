@@ -1,4 +1,4 @@
-Python
+#Python
 n, m = map(int, input().split())
 pos = [tuple(map(int, input().split())) for _ in range(n)]
 seg = [list(map(int, input().split())) for _ in range(m)]
