@@ -1,4 +1,4 @@
-Python
+#Python
 for _ in range(int(input())):
     n=int(input())
     temp=(n*(n+1))/2
