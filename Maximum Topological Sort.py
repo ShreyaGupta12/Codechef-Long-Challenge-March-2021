@@ -1,4 +1,4 @@
-Python
+#Python
 from collections import deque
 p = 10 ** 9 + 7
 facts = [1] * (5 * (10 ** 5) + 10)
