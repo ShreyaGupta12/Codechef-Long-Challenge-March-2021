@@ -1,4 +1,3 @@
-Python
 for _ in range(int(input())):
     c=0
     s=input()
