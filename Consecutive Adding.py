@@ -1,4 +1,3 @@
-Python
 def c(M,C,R,X):
     for i in range(R-X+1,R):
         for j in range(C-X+1,C):
